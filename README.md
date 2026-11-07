@@ -336,7 +336,7 @@ AI-Classroom-Lab/
 │   └── style.css
 │
 ├── js/
-│   └── app.js
+│   └── script.js
 │
 └── README.md
 ```
@@ -397,7 +397,7 @@ Keeping CSS separate makes the project easier to maintain and customize.
 
 ---
 
-## js/app.js
+## js/script.js
 
 This is the main application logic.
 
@@ -428,7 +428,7 @@ The college / institute name can be changed from one place.
 Open:
 
 ```text
-js/app.js
+js/script.js
 ```
 
 Find:
@@ -491,7 +491,7 @@ index.html
 or:
 
 ```text
-js/app.js
+js/script.js
 ```
 
 For example, do not do this:
