@@ -1,3 +1,5 @@
+LIVE PROJECT : https://nikhiltech17.github.io/AI-Classroom-Lab/
+
 # AI Classroom Lab
 
 AI Classroom Lab is a student-focused web application that combines 10 small AI-powered classroom tools into one workspace.
